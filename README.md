@@ -133,6 +133,9 @@ Focused on **Agentic AI, Full Stack Development, and Future Technologies** — t
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+
+
+
 </td>
 
 </tr>
@@ -141,7 +144,54 @@ Focused on **Agentic AI, Full Stack Development, and Future Technologies** — t
 
 
 ---
+## 🏆 Achievements
 
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🚀 10+  
+**Hackathons Participated**
+
+💡 Built innovative solutions across  
+AI, Healthcare, Web & Mobile domains
+
+</td>
+
+
+<td align="center" width="33%">
+
+### 🥈 2×  
+**Hackathon Runner-Up**
+
+🏆 CodeFusion RD Conclave 2026  
+🏆 Omnitrix Hackathon  
+
+</td>
+
+
+<td align="center" width="33%">
+
+### 🎯 6×  
+**Hackathon Finalist**
+
+⚡ Recognized among top teams  
+for impactful tech solutions
+
+</td>
+
+
+</tr>
+
+</table>
+
+</div>
+
+---
 
 
 
