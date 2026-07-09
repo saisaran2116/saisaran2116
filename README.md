@@ -7,9 +7,15 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8b5cf6"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=a855f7"/>
+<br/>
+
+[![Email](https://img.shields.io/badge/-gaddantisaisaran@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaddantisaisaran@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai--Saran--Gaddanti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-saran-gaddanti/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-saisaran2116-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saisaran2116)
+
+<br/>
 
 </div>
 ## 💻 Tech Stack
