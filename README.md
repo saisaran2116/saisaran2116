@@ -142,9 +142,10 @@ I enjoy transforming complex ideas into high-performance applications with clean
 ```yaml
 Collaboration:
   - AI Products
-  - Open Source Projects
+  - Open Source
   - Full Stack Applications
-  - Research Driven Engineering
+  - Mobile Apps
+
 
 Opportunities:
   - Software Engineering Roles
