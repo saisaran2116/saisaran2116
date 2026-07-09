@@ -145,7 +145,7 @@ I enjoy transforming complex ideas into high-performance applications with clean
 
 ### Open To
 
-```yaml
+``yaml
 Collaboration:
   - AI Products
   - Open Source
@@ -157,3 +157,13 @@ Opportunities:
   - Software Engineering Roles
   - AI Engineering Internships
   - Product Development Teams
+
+  ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile;Building+Intelligent+Solutions+with+AI;Keep+Learning+Keep+Building;Let's+Create+Something+Amazing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,24"/>
+
+</div>
