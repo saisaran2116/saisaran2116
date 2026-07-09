@@ -145,7 +145,7 @@ I enjoy transforming complex ideas into high-performance applications with clean
 
 ### Open To
 
-``yaml
+```yaml
 Collaboration:
   - AI Products
   - Open Source
