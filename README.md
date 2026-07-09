@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24&text=Gaddanti%20Sai%20Saran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Powered+Systems;Agentic+AI+Engineer;Full+Stack+Product+Developer;Engineering+Scalable+Digital+Solutions" />
+
 
 
 
@@ -19,22 +19,22 @@
 
 <div align="center">
 
-# 🚀 About Me
+ 🚀 About Me
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Agentic+AI+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
 
 <br/>
 
-💡 Passionate about building **AI-powered solutions, intelligent agents, mobile applications, and full-stack products**  
+I'm a **Computer Science Engineering student at SRM University AP** passionate about building **production-ready AI systems, intelligent agents, and scalable software solutions**.  
 
-⚡ Exploring **Agentic AI, System Design & Modern Engineering** while turning ideas into real-world innovations
+Focused on **Agentic AI, Full Stack Development, and Future Technologies** — transforming innovative ideas into real-world digital products.
 
 </div>
 
 ---
 
 </div>
-## 💻 Tech Stack
+ 💻 Tech Stack
 
 <table>
 <tr>
