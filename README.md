@@ -19,7 +19,7 @@
 
 <div align="center">
 
- 🚀 About Me
+ 🚀 **About Me**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Agentic+AI+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
 
@@ -34,7 +34,8 @@ Focused on **Agentic AI, Full Stack Development, and Future Technologies** — t
 ---
 
 </div>
- 💻 Tech Stack
+
+💻 **Tech Stack**
 
 <table>
 <tr>
