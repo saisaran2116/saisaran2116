@@ -17,6 +17,22 @@
 
 <br/>
 
+<div align="center">
+
+# 🚀 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Agentic+AI+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
+
+<br/>
+
+💡 Passionate about building **AI-powered solutions, intelligent agents, mobile applications, and full-stack products**  
+
+⚡ Exploring **Agentic AI, System Design & Modern Engineering** while turning ideas into real-world innovations
+
+</div>
+
+---
+
 </div>
 ## 💻 Tech Stack
 
@@ -125,40 +141,11 @@
 
 ---
 
-# About Me
-
-I am **Gaddanti Sai Saran**, a Computer Science Engineer passionate about designing and building intelligent, scalable, and production-ready software systems.
-
-I focus on the intersection of:
-
-- Artificial Intelligence Engineering
-- Agentic AI Systems
-- Full Stack Web Development
-- MERN Stack Architecture
-- Product Engineering
-- Cloud Native Applications
-
-I enjoy transforming complex ideas into high-performance applications with clean architecture, automation, and user-focused experiences.
 
 
----
-
-### Open To
-
-```yaml
-Collaboration:
-  - AI Products
-  - Open Source
-  - Full Stack Applications
-  - Mobile Apps
 
 
-Opportunities:
-  - Software Engineering Roles
-  - AI Engineering Internships
-  - Product Development Teams
 
-  ---
 
 <div align="center">
 
