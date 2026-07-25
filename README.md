@@ -200,7 +200,9 @@ for impactful tech solutions
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile;Building+Intelligent+Solutions+with+AI;Keep+Learning+Keep+Building;Let's+Create+Something+Amazing" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=950&height=45&lines=🧡+Thanks+for+Visiting+My+Profile;🤖+Building+Intelligent+Solutions+with+AI;🚀+Keep+Learning+•+Keep+Building;⚡+Let's+Create+Something+Amazing+Together" />
+</p>
 
 <img src="./assets/footer-banner.png" alt="Footer Banner" width="100%" />
 
