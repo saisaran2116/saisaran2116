@@ -3,9 +3,8 @@
 <img src="./assets/github-banner.png" alt="Gaddanti Sai Saran" width="100%" />
 
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Full+Stack+Developer+%7C+MERN+Specialist;Turning+Ideas+Into+Scalable+Products;Always+Learning+•+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=950&lines=Building+Intelligent+AI+Systems;Agentic+AI+Engineer;Full+Stack+Developer+%7C+Mobile+App+Developer;Turning+Ideas+Into+Scalable+Digital+Products;Always+Learning+•+Always+Building" />
 </p>
 
 
@@ -23,7 +22,9 @@
 
  🚀 **About Me**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=900&height=40&lines=Agentic+AI+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=950&height=40&lines=Agentic+AI+Engineer;Full+Stack+Developer;Mobile+App+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
+</p>
 
 <br/>
 
