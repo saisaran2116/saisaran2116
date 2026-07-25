@@ -28,9 +28,9 @@
 
 <br/>
 
-I'm a **Computer Science Engineering student at SRM University AP** passionate about building **production-ready AI systems, intelligent agents, and scalable software solutions**.  
+I'm a **Computer Science Engineering student at SRM University AP** driven by a passion for building **AI-powered applications, scalable full-stack solutions, and high-performance mobile apps**.
 
-Focused on **Agentic AI, Full Stack Development, and Future Technologies** — transforming innovative ideas into real-world digital products.
+Specializing in **Agentic AI, Full Stack Development, and Mobile App Development**, I enjoy transforming innovative ideas into **production-ready, user-centric digital experiences** that solve real-world problems.
 
 </div>
 
