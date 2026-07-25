@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24&text=Gaddanti%20Sai%20Saran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55" />
+<img src="./assets/github-banner.png" alt="Gaddanti Sai Saran" width="100%" />
 
 
 
@@ -202,6 +202,6 @@ for impactful tech solutions
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile;Building+Intelligent+Solutions+with+AI;Keep+Learning+Keep+Building;Let's+Create+Something+Amazing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,24"/>
+<img src="./assets/footer-banner.png" alt="Footer Banner" width="100%" />
 
 </div>
