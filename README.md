@@ -4,7 +4,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Full+Stack+Developer+%7C+MERN+Specialist;Turning+Ideas+Into+Scalable+Products;Always+Learning+•+Always+Building" />
+</p>
 
 
 <br/>
