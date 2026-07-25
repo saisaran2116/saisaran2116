@@ -21,7 +21,7 @@
 
  🚀 **About Me**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Agentic+AI+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=900&height=40&lines=Agentic+AI+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
 
 <br/>
 
