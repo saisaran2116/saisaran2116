@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon.gif" width="650" alt="My Evolving Dragon">
+  <br>
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon-status.svg" width="650" alt="Drago Status Card">
+</p>
+
 <div align="center">
 
 <img src="./assets/github-banner.png" alt="Gaddanti Sai Saran" width="100%" />
