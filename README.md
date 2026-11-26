@@ -4,80 +4,67 @@
   <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon-status.svg" width="650" alt="Drago Status Card">
 </p>
 
-<h2 align="center">A Little About Me</h2>
+# ![Gaddanti Sai Saran — Voice agents, web and mobile](./assets/signal/saran.svg)
 
-![Gaddanti Sai Saran, full-stack and mobile developer studying Computer Science Engineering at SRM University–AP. ASCII portrait on the left and developer profile on the right.](./assets/about-me.svg)
+I study Computer Science and Engineering at SRM University–AP (B.Tech, 2024–2028). I like working on the moment where software has to answer someone back, whether that’s a voice assistant hearing a command or a campus app explaining why a form failed.
 
-## Project directory
+## ![Engineering experience](./assets/signal/experience.svg)
 
-`~/projects/campus-hub` · [Open campus calendar](https://campus-hub-gamma-eight.vercel.app/)
+**SDE Intern · Full-stack and mobile development**
 
-`~/projects/sanjeevan` · [Explore the health dashboard](https://sanjeevan-omega.vercel.app/)
+I build responsive web and mobile interfaces, connect them to backend APIs, and debug features across the client and server. I also contribute to open source through GirlScript Summer of Code and am an associate at Next Tech Lab, SRM University–AP.
 
-Select a command to expand its output.
+## ![Voice, in practice](./assets/signal/voice.svg)
 
-<details>
-<summary><code>saran@dev ~ % cat projects/campus-hub</code></summary>
-
-An organizer uploads a poster, checks the extracted event details, and submits it for staff approval. Students can then browse the event and save it. One scheduling detail I like is that an event running past midnight still gets checked against the next day’s bookings.
-
-[Explore Campus Hub](https://campus-hub-gamma-eight.vercel.app/) · [Source code](https://github.com/saisaran2116/Campus-hub) · [Scheduling and database design](https://github.com/saisaran2116/Campus-hub/blob/main/LLD.md)
-
-</details>
-
-<details>
-<summary><code>saran@dev ~ % cat projects/sanjeevan</code></summary>
-
-Anurag Tummapudi and I built this healthcare prototype in 24 hours at **Omnitrix**, where our team took second place. Patients can upload a report for a plain-language summary, review their vitals, and ask follow-up questions by voice. I built responsive web components and connected them to the backend services.
-
-[Explore Sanjeevan](https://sanjeevan-omega.vercel.app/) · [Team repository](https://github.com/AnuragTummapudi/Sanjeevani)
-
-</details>
-
-<details>
-<summary><code>saran@dev ~ % ls projects/more</code></summary>
-
-| Project | What you can do with it |
+| Build | What happens when you speak |
 | --- | --- |
-| [Viśuddha](https://github.com/saisaran2116/visuddha-mobile) | Record an herb collection in the field with a photo and location, even when connectivity is patchy. |
-| [Hey Baby](https://github.com/saisaran2116/heysaran) | Say “Hey Baby, open calculator” to a desktop assistant that recognizes commands offline after setup. |
-| [Trip Sculptor](https://github.com/saisaran2116/Trip-sculptor) | Plan an itinerary and share it with the people traveling with you. |
+| **Hey Baby** | Say “Hey Baby, open calculator” and the desktop assistant launches it. After setup, the wake phrase, spoken replies, and built-in actions work offline. [Try the desktop assistant](https://github.com/saisaran2116/heysaran) |
+| **Sanjeevan** | A patient can talk to an assistant, review vitals, and read a plain-language summary of a report. Anurag Tummapudi and I built the prototype in 24 hours. I worked on the responsive interface and its backend integrations. [Open Sanjeevan](https://sanjeevan-omega.vercel.app/) · [Team repository](https://github.com/AnuragTummapudi/Sanjeevani) |
+| **Vaaradhi AI** | Our team paired a conversational voice agent with live patient data so users could ask about health trends hands-free. [Explore the project](https://github.com/AnuragTummapudi/Vaaradhi-AI) |
 
-[Browse my repositories](https://github.com/saisaran2116?tab=repositories)
-
-</details>
-
-## Developer notes
+## ![The Build Rack — tools for interfaces, services, storage, voice and delivery](./assets/signal/rack.svg)
 
 <details>
-<summary><code>saran@dev ~ % cat toolkit</code></summary>
+<summary>Read the stack as text</summary>
 
-| Where I work | Tools I use |
-| --- | --- |
-| Languages | TypeScript, JavaScript, Python, Java, C++ |
-| Web and mobile | React, Next.js, Tailwind CSS, React Native, Expo |
-| APIs and data | Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, Firebase |
-| AI and voice | Gemini, LiveKit, retrieval-augmented generation, prompt engineering |
-| Design and delivery | Figma, Git, Postman, Docker, Vercel, Netlify, Render |
-
-</details>
-
-<details>
-<summary><code>saran@dev ~ % history --hackathons</code></summary>
-
-I’ve participated in **10+ hackathons**, reached **6 finals**, and earned **2 runner-up finishes** with my teammates.
-
-- **Omnitrix Hackathon** — Sanjeevan brought report summaries, vitals, and voice interaction into one patient dashboard.
-- **CodeFusion at RD Conclave 2026** — With Vaaradhi AI, our team explored how a voice agent could help people interact with live health data. [Team repository](https://github.com/AnuragTummapudi/Vaaradhi-AI)
+- **Languages** — JavaScript · TypeScript · Python · C++ · SQL
+- **Interfaces** — React · React Native · Next.js · Vite · Tailwind CSS
+- **Services** — Node.js · Express · REST APIs · Prisma
+- **Storage** — PostgreSQL · MongoDB · MySQL · Supabase · Firebase
+- **Voice & AI** — LiveKit · Gemini · Vosk
+- **Build & ship** — Git · GitHub · Docker · Postman · Vercel · Netlify · Render
 
 </details>
 
-## Contact
+## ![Selected builds](./assets/signal/projects.svg)
 
-If you’re building a campus tool or experimenting with a voice interface, I’d love to hear what you’re working on.
+**Campus Hub**
 
-[Email me](mailto:gaddantisaisaran@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sai-saran-gaddanti/)
+Organizers turn a poster into an event listing, staff check the extracted details, and students save approved events. The scheduling logic handles bookings that run past midnight. [Live calendar](https://campus-hub-gamma-eight.vercel.app/) · [Source](https://github.com/saisaran2116/Campus-hub) · [Design notes](https://github.com/saisaran2116/Campus-hub/blob/main/LLD.md)
 
-```text
-saran@dev ~ % ▋
-```
+**KalCG**
+
+A CGPA tracker used by 300+ members of the Kalvium community. When the query form started returning HTTP 504s, I changed the request path, added a ten-second timeout, and tested failure cases in Postman. [Visit KalCG](https://kalcg.netlify.app/)
+
+**Viśuddha**
+
+An Android field app for herb collectors. A collector can record where a sample came from, attach a photo, and save the record when connectivity is patchy. [Mobile repository](https://github.com/saisaran2116/visuddha-mobile)
+
+**Trip Sculptor**
+
+A travel planner for building an itinerary and sharing it with the people coming along. [Project repository](https://github.com/saisaran2116/Trip-sculptor)
+
+## ![Hackathon log](./assets/signal/results.svg)
+
+| Event | Our build | Result |
+| --- | --- | --- |
+| Omnitrix | Sanjeevan, a voice-enabled healthcare prototype | Runner-up |
+| CodeFusion · RD Conclave 2026 | Vaaradhi AI, a real-time patient care platform | Runner-up |
+| Web3SSH | Rescu3, an Ethereum hardware wallet recovery project | Top 10 teams |
+| ETHGlobal Mumbai | An Ethereum-based project | Participant |
+
+## ![Get in touch](./assets/signal/contact.svg)
+
+Working on a voice interface or a tool for students? I’d love to compare notes.
+
+[Email me](mailto:gaddantisaisaran@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sai-saran-gaddanti/) · [Browse my repositories](https://github.com/saisaran2116?tab=repositories)
