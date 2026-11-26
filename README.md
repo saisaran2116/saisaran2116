@@ -1,4 +1,4 @@
-# Sai Saran Gaddanti
+# Gaddanti Sai Saran
 
 ```text
 saran@dev ~ % whoami --verbose
@@ -18,6 +18,12 @@ projects   Campus Hub · Sanjeevan
 record     10+ hackathons · 6 finals
 ────────────────────────────────────────────
 ```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon.gif" width="650" alt="My Evolving Dragon">
+  <br>
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon-status.svg" width="650" alt="Drago Status Card">
+</p>
 
 ## Project directory
 
