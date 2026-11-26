@@ -1,26 +1,52 @@
-![Sai Saran Gaddanti’s engineering notebook, illustrated with a campus roofline and a pulse trace](./assets/notebook-cover.svg)
+# Sai Saran Gaddanti
 
-# Hi, I’m Sai Saran.
+```text
+saran@dev ~ % whoami --verbose
 
-I study **Computer Science Engineering at SRM University–AP**. I build web and mobile apps and experiment with voice agents. Two of my favorite projects started with everyday questions. Could an organizer turn a campus poster into a calendar entry? Could a patient ask a question about a lab report out loud?
+ ████   ███   ████    ███   █   █
+█      █   █  █   █  █   █  ██  █
+ ███   █████  ████   █████  █ █ █
+    █  █   █  █  █   █   █  █  ██
+████   █   █  █   █  █   █  █   █
 
-[Featured projects](#featured-projects) · [More builds](#more-builds) · [Toolkit](#toolkit) · [Hackathons](#hackathons) · [Contact](#contact)
+────────────────────────────────────────────
+role       Full-stack & mobile developer
+campus     SRM University–AP · CSE
+stack      TypeScript · React · Node.js
+focus      Voice agents · AI interfaces
+projects   Campus Hub · Sanjeevan
+record     10+ hackathons · 6 finals
+────────────────────────────────────────────
+```
 
-## Featured projects
+## Project directory
 
-### Campus Hub
+`~/projects/campus-hub` · [Open campus calendar](https://campus-hub-gamma-eight.vercel.app/)
+
+`~/projects/sanjeevan` · [Explore the health dashboard](https://sanjeevan-omega.vercel.app/)
+
+Select a command to expand its output.
+
+<details>
+<summary><code>saran@dev ~ % cat projects/campus-hub</code></summary>
 
 An organizer uploads a poster, checks the extracted event details, and submits it for staff approval. Students can then browse the event and save it. One scheduling detail I like is that an event running past midnight still gets checked against the next day’s bookings.
 
 [Explore Campus Hub](https://campus-hub-gamma-eight.vercel.app/) · [Source code](https://github.com/saisaran2116/Campus-hub) · [Scheduling and database design](https://github.com/saisaran2116/Campus-hub/blob/main/LLD.md)
 
-### Sanjeevan
+</details>
+
+<details>
+<summary><code>saran@dev ~ % cat projects/sanjeevan</code></summary>
 
 Anurag Tummapudi and I built this healthcare prototype in 24 hours at **Omnitrix**, where our team took second place. Patients can upload a report for a plain-language summary, review their vitals, and ask follow-up questions by voice. I built responsive web components and connected them to the backend services.
 
 [Explore Sanjeevan](https://sanjeevan-omega.vercel.app/) · [Team repository](https://github.com/AnuragTummapudi/Sanjeevani)
 
-## More builds
+</details>
+
+<details>
+<summary><code>saran@dev ~ % ls projects/more</code></summary>
 
 | Project | What you can do with it |
 | --- | --- |
@@ -30,7 +56,12 @@ Anurag Tummapudi and I built this healthcare prototype in 24 hours at **Omnitrix
 
 [Browse my repositories](https://github.com/saisaran2116?tab=repositories)
 
-## Toolkit
+</details>
+
+## Developer notes
+
+<details>
+<summary><code>saran@dev ~ % cat toolkit</code></summary>
 
 | Where I work | Tools I use |
 | --- | --- |
@@ -40,15 +71,24 @@ Anurag Tummapudi and I built this healthcare prototype in 24 hours at **Omnitrix
 | AI and voice | Gemini, LiveKit, retrieval-augmented generation, prompt engineering |
 | Design and delivery | Figma, Git, Postman, Docker, Vercel, Netlify, Render |
 
-## Hackathons
+</details>
+
+<details>
+<summary><code>saran@dev ~ % history --hackathons</code></summary>
 
 I’ve participated in **10+ hackathons**, reached **6 finals**, and earned **2 runner-up finishes** with my teammates.
 
 - **Omnitrix Hackathon** — Sanjeevan brought report summaries, vitals, and voice interaction into one patient dashboard.
 - **CodeFusion at RD Conclave 2026** — With Vaaradhi AI, our team explored how a voice agent could help people interact with live health data. [Team repository](https://github.com/AnuragTummapudi/Vaaradhi-AI)
 
+</details>
+
 ## Contact
 
 If you’re building a campus tool or experimenting with a voice interface, I’d love to hear what you’re working on.
 
 [Email me](mailto:gaddantisaisaran@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sai-saran-gaddanti/)
+
+```text
+saran@dev ~ % ▋
+```
