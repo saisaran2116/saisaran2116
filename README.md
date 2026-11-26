@@ -2,6 +2,8 @@
 
 **SDE Intern** · Web & mobile · B.Tech CSE, SRM University–AP (2024–2028)
 
+Two things I’ve built for fellow students are a campus event calendar and a CGPA tracker. I also work on voice interfaces. At Omnitrix, my teammate and I built a prototype that lets someone upload a medical report, read a summary, and ask a follow-up question out loud.
+
 [Projects](#projects) · [Experience](#experience) · [Tech stack](#tech-stack) · [Hackathons](#hackathons) · [Connect](#connect)
 
 <a name="projects"></a>
@@ -10,9 +12,9 @@
 
 | Build | What it does | Links |
 | --- | --- | --- |
-| **Campus Hub** | Turns campus posters into events students can save. | [Calendar](https://campus-hub-gamma-eight.vercel.app/) · [Code](https://github.com/saisaran2116/Campus-hub) |
-| **Sanjeevan** | Pairs report summaries with a voice-enabled health assistant. | [Demo](https://sanjeevan-omega.vercel.app/) · [Code](https://github.com/AnuragTummapudi/Sanjeevani) |
-| **KalCG** | Tracks CGPA for 300+ Kalvium community members. | [Tracker](https://kalcg.netlify.app/) |
+| **Campus Hub** | Organizers upload an event poster and review the extracted details. Once staff approve the listing, students can find it on the calendar and save it. | [Calendar](https://campus-hub-gamma-eight.vercel.app/) · [Code](https://github.com/saisaran2116/Campus-hub) |
+| **Sanjeevan** | A healthcare prototype that brings report summaries, vitals, and a voice assistant into one dashboard. I built the responsive interface and connected it to the backend. | [Demo](https://sanjeevan-omega.vercel.app/) · [Code](https://github.com/AnuragTummapudi/Sanjeevani) |
+| **KalCG** | A grade calculator for the Kalvium community. More than 300 members have used it to track their academic performance. | [Tracker](https://kalcg.netlify.app/) |
 
 <details>
 <summary>Build notes</summary>
@@ -27,18 +29,20 @@
 
 ## <img src="./assets/section-icons/experience.svg" width="30" alt=""> Experience
 
-I build mobile and web interfaces and connect them to backend APIs.
+As an **SDE Intern**, I build web and mobile features from the screen through to the API. One part of that work I enjoy is tracing a failed request. On KalCG, a form submission could time out without telling the student what happened. I changed how the form reached the server and added an error message so the student knew when to try again.
 
 <details>
 <summary>Community roles</summary>
 
-GirlScript Summer of Code contributor · Next Tech Lab associate
+I contribute to open source through GirlScript Summer of Code and am an associate at Next Tech Lab at SRM University–AP.
 
 </details>
 
 <a name="tech-stack"></a>
 
 ## <img src="./assets/section-icons/tech-stack.svg" width="30" alt=""> Tech stack
+
+I use React for web interfaces, React Native for mobile apps, and Node.js and Express for APIs. For voice features, I’ve worked with LiveKit and Gemini. Each icon below opens the corresponding documentation.
 
 <table>
 <tr>
@@ -71,7 +75,7 @@ GirlScript Summer of Code contributor · Next Tech Lab associate
 
 ## <img src="./assets/section-icons/hackathons.svg" width="30" alt=""> Hackathons
 
-**Runner-up** · Omnitrix and CodeFusion　 **Top 10** · Web3SSH
+I’ve taken part in **10+ hackathons** and reached **six finals**. Our teams earned runner-up at Omnitrix and CodeFusion. At Web3SSH, we finished in the top 10 with Rescu3, an Ethereum hardware wallet recovery project.
 
 <details>
 <summary>Event results</summary>
@@ -88,6 +92,8 @@ GirlScript Summer of Code contributor · Next Tech Lab associate
 <a name="connect"></a>
 
 ## <img src="./assets/section-icons/connect.svg" width="30" alt=""> Connect
+
+I’d love to hear from people building student tools or experimenting with voice interfaces. If you’ve tried one of my projects, tell me what you used it for and what could work better.
 
 <a href="mailto:gaddantisaisaran@gmail.com"><img src="./assets/signal/email-link.svg" width="31%" alt="Email — Start a conversation"></a>
 <a href="https://www.linkedin.com/in/sai-saran-gaddanti/"><img src="./assets/signal/linkedin-link.svg" width="31%" alt="LinkedIn — Connect with me"></a>
