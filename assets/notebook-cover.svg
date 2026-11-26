@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 280" role="img" aria-labelledby="title desc">
+  <title id="title">Sai Saran Gaddanti — Engineer’s notebook</title>
+  <desc id="desc">A cream notebook cover with a blue campus roofline and an orange pulse trace drawn on graph paper.</desc>
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#cecbbf" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1080" height="280" fill="#f5f1e6"/>
+  <rect x="663" width="417" height="280" fill="url(#grid)"/>
+  <path d="M35 24V256" stroke="#d54e2c" stroke-width="5"/>
+  <g fill="#182942">
+    <text x="62" y="62" font-family="monospace" font-size="19" letter-spacing="2">ENGINEER’S NOTEBOOK</text>
+    <text x="58" y="153" font-family="Georgia,serif" font-size="70" letter-spacing="-3">Sai Saran Gaddanti</text>
+    <text x="63" y="218" font-family="monospace" font-size="19">AI systems / web / mobile</text>
+  </g>
+  <g stroke="#264d80" fill="none" stroke-width="4" stroke-linejoin="round">
+    <path d="M690 198h32v-72l74-44 74 44v72h30v-58h110v58h42M710 129l86-51 86 51M737 136h117M742 198v-52m25 52v-52m29 52v-52m29 52v-52m25 52v-52M694 208h355"/>
+    <path d="M914 154h19v15h-19zm30 0h19v15h-19zm30 0h19v15h-19z" stroke-width="2"/>
+  </g>
+  <path d="M682 181h166l11-11 11 16 14-60 14 85 13-35 10 5h119" fill="none" stroke="#d54e2c" stroke-width="5" stroke-linejoin="round"/>
+</svg>

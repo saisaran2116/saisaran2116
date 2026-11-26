@@ -1,217 +1,54 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon.gif" width="650" alt="My Evolving Dragon">
-  <br>
-  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/saisaran2116/dragon-status.svg" width="650" alt="Drago Status Card">
-</p>
+![Sai Saran Gaddanti’s engineering notebook, illustrated with a campus roofline and a pulse trace](./assets/notebook-cover.svg)
 
+# Hi, I’m Sai Saran.
 
+I study **Computer Science Engineering at SRM University–AP**. I build web and mobile apps and experiment with voice agents. Two of my favorite projects started with everyday questions. Could an organizer turn a campus poster into a calendar entry? Could a patient ask a question about a lab report out loud?
 
+[Featured projects](#featured-projects) · [More builds](#more-builds) · [Toolkit](#toolkit) · [Hackathons](#hackathons) · [Contact](#contact)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=950&lines=Building+Intelligent+AI+Systems;Agentic+AI+Engineer;Full+Stack+Developer+%7C+Mobile+App+Developer;Turning+Ideas+Into+Scalable+Digital+Products;Always+Learning+•+Always+Building" />
-</p>
+## Featured projects
 
+### Campus Hub
 
-<br/>
+An organizer uploads a poster, checks the extracted event details, and submits it for staff approval. Students can then browse the event and save it. One scheduling detail I like is that an event running past midnight still gets checked against the next day’s bookings.
 
-[![Email](https://img.shields.io/badge/-gaddantisaisaran@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaddantisaisaran@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai--Saran--Gaddanti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-saran-gaddanti/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-saisaran2116-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saisaran2116)
+[Explore Campus Hub](https://campus-hub-gamma-eight.vercel.app/) · [Source code](https://github.com/saisaran2116/Campus-hub) · [Scheduling and database design](https://github.com/saisaran2116/Campus-hub/blob/main/LLD.md)
 
+### Sanjeevan
 
-<br/>
+Anurag Tummapudi and I built this healthcare prototype in 24 hours at **Omnitrix**, where our team took second place. Patients can upload a report for a plain-language summary, review their vitals, and ask follow-up questions by voice. I built responsive web components and connected them to the backend services.
 
-<div align="center">
+[Explore Sanjeevan](https://sanjeevan-omega.vercel.app/) · [Team repository](https://github.com/AnuragTummapudi/Sanjeevani)
 
- 🚀 **About Me**
+## More builds
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=950&height=40&lines=Agentic+AI+Engineer;Full+Stack+Developer;Mobile+App+Developer;Building+AI+Agents+%26+Scalable+Digital+Products" />
-</p>
+| Project | What you can do with it |
+| --- | --- |
+| [Viśuddha](https://github.com/saisaran2116/visuddha-mobile) | Record an herb collection in the field with a photo and location, even when connectivity is patchy. |
+| [Hey Baby](https://github.com/saisaran2116/heysaran) | Say “Hey Baby, open calculator” to a desktop assistant that recognizes commands offline after setup. |
+| [Trip Sculptor](https://github.com/saisaran2116/Trip-sculptor) | Plan an itinerary and share it with the people traveling with you. |
 
-<br/>
+[Browse my repositories](https://github.com/saisaran2116?tab=repositories)
 
-I'm a **Computer Science Engineering student at SRM University AP** driven by a passion for building **AI-powered applications, scalable full-stack solutions, and high-performance mobile apps**.
+## Toolkit
 
-Specializing in **Agentic AI, Full Stack Development, and Mobile App Development**, I enjoy transforming innovative ideas into **production-ready, user-centric digital experiences** that solve real-world problems.
+| Where I work | Tools I use |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Java, C++ |
+| Web and mobile | React, Next.js, Tailwind CSS, React Native, Expo |
+| APIs and data | Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, Firebase |
+| AI and voice | Gemini, LiveKit, retrieval-augmented generation, prompt engineering |
+| Design and delivery | Figma, Git, Postman, Docker, Vercel, Netlify, Render |
 
-</div>
+## Hackathons
 
----
+I’ve participated in **10+ hackathons**, reached **6 finals**, and earned **2 runner-up finishes** with my teammates.
 
-</div>
+- **Omnitrix Hackathon** — Sanjeevan brought report summaries, vitals, and voice interaction into one patient dashboard.
+- **CodeFusion at RD Conclave 2026** — With Vaaradhi AI, our team explored how a voice agent could help people interact with live health data. [Team repository](https://github.com/AnuragTummapudi/Vaaradhi-AI)
 
-💻 **Tech Stack**
+## Contact
 
-<table>
-<tr>
+If you’re building a campus tool or experimenting with a voice interface, I’d love to hear what you’re working on.
 
-<td valign="top" width="25%">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-<br>
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=gmail&logoColor=white)
-
-</td>
-
-
-<td valign="top" width="25%">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide-000000?style=flat-square)
-
-<br>
-
-**Mobile Development**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-</td>
-
-
-
-<td valign="top" width="25%">
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<br>
-
-**AI Engineering**
-
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM_Engineering-412991?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Systems-6366F1?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square)
-
-</td>
-
-
-
-<td valign="top" width="25%">
-
-**Cloud & Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-<br>
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<br>
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-
-
-
-</td>
-
-</tr>
-</table>
-
-
-
----
-## 🏆 Achievements
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🚀 10+  
-**Hackathons Participated**
-
-💡 Built innovative solutions across  
-AI, Healthcare, Web & Mobile domains
-
-</td>
-
-
-<td align="center" width="33%">
-
-### 🥈 2×  
-**Hackathon Runner-Up**
-
-🏆 CodeFusion RD Conclave 2026  
-🏆 Omnitrix Hackathon  
-
-</td>
-
-
-<td align="center" width="33%">
-
-### 🎯 6×  
-**Hackathon Finalist**
-
-⚡ Recognized among top teams  
-for impactful tech solutions
-
-</td>
-
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-
-
-
-
-
-<div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=950&height=45&lines=🧡+Thanks+for+Visiting+My+Profile;🤖+Building+Intelligent+Solutions+with+AI;🚀+Keep+Learning+•+Keep+Building;⚡+Let's+Create+Something+Amazing+Together" />
-</p>
-
-<img src="./assets/footer-banner.png" alt="Footer Banner" width="100%" />
-
-</div>
+[Email me](mailto:gaddantisaisaran@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sai-saran-gaddanti/)
