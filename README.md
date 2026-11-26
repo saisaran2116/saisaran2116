@@ -1,24 +1,21 @@
-# Gaddanti Sai Saran
+# <img src="./assets/section-icons/profile.svg" width="30" alt=""> Gaddanti Sai Saran
 
-**SDE Intern · Full-stack and mobile development**
-
-I study Computer Science and Engineering at SRM University–AP (B.Tech, 2024–2028). I build tools for students, from a campus event calendar to a grade tracker used by 300+ members of the Kalvium community.
+**SDE Intern** · Web & mobile · B.Tech CSE, SRM University–AP (2024–2028)
 
 [Projects](#projects) · [Experience](#experience) · [Tech stack](#tech-stack) · [Hackathons](#hackathons) · [Connect](#connect)
 
 <a name="projects"></a>
 
-## <img src="./assets/portfolio-folder.svg" width="28" alt=""> Projects
+## <img src="./assets/section-icons/projects.svg" width="30" alt=""> Projects
 
-| Project | What you can do | Explore |
+| Build | What it does | Links |
 | --- | --- | --- |
-| **Campus Hub** | Turn a poster into a campus event, submit it for approval, and save events to attend. | [Open calendar](https://campus-hub-gamma-eight.vercel.app/) · [Source](https://github.com/saisaran2116/Campus-hub) |
-| **Sanjeevan** | Talk to a health assistant, track vitals, and read a plain-language summary of a report. | [Try prototype](https://sanjeevan-omega.vercel.app/) · [Source](https://github.com/AnuragTummapudi/Sanjeevani) |
-| **KalCG** | Calculate your CGPA as a Kalvium student. | [Open tracker](https://kalcg.netlify.app/) |
-| **Hey Baby** | Open desktop apps with a spoken command. Built-in commands work offline after setup. | [Setup and source](https://github.com/saisaran2116/heysaran) |
+| **Campus Hub** | Turns campus posters into events students can save. | [Calendar](https://campus-hub-gamma-eight.vercel.app/) · [Code](https://github.com/saisaran2116/Campus-hub) |
+| **Sanjeevan** | Pairs report summaries with a voice-enabled health assistant. | [Demo](https://sanjeevan-omega.vercel.app/) · [Code](https://github.com/AnuragTummapudi/Sanjeevani) |
+| **KalCG** | Tracks CGPA for 300+ Kalvium community members. | [Tracker](https://kalcg.netlify.app/) |
 
 <details>
-<summary>Behind the builds</summary>
+<summary>Build notes</summary>
 
 - **Campus Hub** checks for scheduling conflicts even when an event runs past midnight. [Read the scheduling design](https://github.com/saisaran2116/Campus-hub/blob/main/LLD.md)
 - **Sanjeevan** was a 24-hour build with Anurag Tummapudi. I built responsive components and connected them to the health-analysis backend.
@@ -28,20 +25,20 @@ I study Computer Science and Engineering at SRM University–AP (B.Tech, 2024–
 
 <a name="experience"></a>
 
-## <img src="./assets/portfolio-folder.svg" width="28" alt=""> Experience
+## <img src="./assets/section-icons/experience.svg" width="30" alt=""> Experience
 
-As an **SDE Intern**, I build responsive web and mobile interfaces, connect them to backend services, and debug the request from the screen through to the API.
+I build mobile and web interfaces and connect them to backend APIs.
 
 <details>
-<summary>Open-source and campus involvement</summary>
+<summary>Community roles</summary>
 
-I contribute to open source through GirlScript Summer of Code and am an associate at Next Tech Lab, SRM University–AP.
+GirlScript Summer of Code contributor · Next Tech Lab associate
 
 </details>
 
 <a name="tech-stack"></a>
 
-## <img src="./assets/portfolio-folder.svg" width="28" alt=""> Tech stack
+## <img src="./assets/section-icons/tech-stack.svg" width="30" alt=""> Tech stack
 
 <table>
 <tr>
@@ -72,12 +69,12 @@ I contribute to open source through GirlScript Summer of Code and am an associat
 
 <a name="hackathons"></a>
 
-## <img src="./assets/portfolio-folder.svg" width="28" alt=""> Hackathons
+## <img src="./assets/section-icons/hackathons.svg" width="30" alt=""> Hackathons
 
-My teams earned runner-up at **Omnitrix** and **CodeFusion** and finished in the **top 10 at Web3SSH**.
+**Runner-up** · Omnitrix and CodeFusion　 **Top 10** · Web3SSH
 
 <details>
-<summary>See the project behind each result</summary>
+<summary>Event results</summary>
 
 | Event | Our build | Result |
 | --- | --- | --- |
@@ -90,9 +87,7 @@ My teams earned runner-up at **Omnitrix** and **CodeFusion** and finished in the
 
 <a name="connect"></a>
 
-## <img src="./assets/portfolio-folder.svg" width="28" alt=""> Connect
-
-Have a project in mind? Email me about it, connect on LinkedIn, or explore the code on GitHub.
+## <img src="./assets/section-icons/connect.svg" width="30" alt=""> Connect
 
 <a href="mailto:gaddantisaisaran@gmail.com"><img src="./assets/signal/email-link.svg" width="31%" alt="Email — Start a conversation"></a>
 <a href="https://www.linkedin.com/in/sai-saran-gaddanti/"><img src="./assets/signal/linkedin-link.svg" width="31%" alt="LinkedIn — Connect with me"></a>
