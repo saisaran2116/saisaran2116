@@ -4,11 +4,11 @@
 
 <samp>Two things I’ve built for fellow students are a campus event calendar and a CGPA tracker. I also work on voice interfaces. At Omnitrix, my teammate and I built a prototype that lets someone upload a medical report, read a summary, and ask a follow-up question out loud.</samp>
 
-<samp><a href="#projects">Projects</a> · <a href="#experience">Experience</a> · <a href="#tech-stack">Tech stack</a> · <a href="#hackathons">Hackathons</a> · <a href="#connect">Connect</a></samp>
+<samp><a href="#projects">Built Between Classes</a> · <a href="#experience">My Intern Notebook</a> · <a href="#tech-stack">Inside My Dev Kit</a> · <a href="#hackathons">Before the Buzzer</a> · <a href="#connect">My Inbox Is Open</a></samp>
 
 <a name="projects"></a>
 
-## <img src="./assets/type/projects.svg" width="165" alt="Projects">
+## <img src="./assets/type/projects.svg" width="329" alt="Built Between Classes">
 
 | <samp>Build</samp> | <samp>What it does</samp> | <samp>Links</samp> |
 | --- | --- | --- |
@@ -27,7 +27,7 @@
 
 <a name="experience"></a>
 
-## <img src="./assets/type/experience.svg" width="202" alt="Experience">
+## <img src="./assets/type/experience.svg" width="316" alt="My Intern Notebook">
 
 <samp>As an <strong>SDE Intern</strong>, I build web and mobile features from the screen through to the API. One part of that work I enjoy is tracing a failed request. On KalCG, a form submission could time out without telling the student what happened. I changed how the form reached the server and added an error message so the student knew when to try again.</samp>
 
@@ -40,7 +40,7 @@
 
 <a name="tech-stack"></a>
 
-## <img src="./assets/type/tech-stack.svg" width="199" alt="Tech stack">
+## <img src="./assets/type/tech-stack.svg" width="278" alt="Inside My Dev Kit">
 
 <samp>I use React for web interfaces, React Native for mobile apps, and Node.js and Express for APIs. For voice features, I’ve worked with LiveKit and Gemini. Each icon below opens the corresponding documentation.</samp>
 
@@ -73,7 +73,7 @@
 
 <a name="hackathons"></a>
 
-## <img src="./assets/type/hackathons.svg" width="215" alt="Hackathons">
+## <img src="./assets/type/hackathons.svg" width="283" alt="Before the Buzzer">
 
 <samp>I’ve taken part in <strong>10+ hackathons</strong> and reached <strong>six finals</strong>. Our teams earned runner-up at Omnitrix and CodeFusion. At Web3SSH, we finished in the top 10 with Rescu3, an Ethereum hardware wallet recovery project.</samp>
 
@@ -91,7 +91,7 @@
 
 <a name="connect"></a>
 
-## <img src="./assets/type/connect.svg" width="173" alt="Connect">
+## <img src="./assets/type/connect.svg" width="278" alt="My Inbox Is Open">
 
 <samp>I’d love to hear from people building student tools or experimenting with voice interfaces. If you’ve tried one of my projects, tell me what you used it for and what could work better.</samp>
 
