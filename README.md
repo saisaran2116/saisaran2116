@@ -49,27 +49,32 @@ I contribute to open source through GirlScript Summer of Code and am an associat
 
 ## <img src="./assets/portfolio-folder.svg" width="28" alt=""> Tech stack
 
-Select a technology icon for its documentation.
-
-**Languages**
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./assets/signal/icons/javascript.svg" width="44" alt="JavaScript"></a> <a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="./assets/signal/icons/typescript.svg" width="44" alt="TypeScript"></a> <a href="https://docs.python.org/3/" title="Python"><img src="./assets/signal/icons/python.svg" width="44" alt="Python"></a> <a href="https://isocpp.org/" title="C++"><img src="./assets/signal/icons/cpp.svg" width="44" alt="C++"></a> <a href="https://www.postgresql.org/docs/current/tutorial-sql.html" title="SQL"><img src="./assets/signal/icons/sql.svg" width="44" alt="SQL"></a>
-
-**Web and mobile**
-
-<a href="https://react.dev/" title="React"><img src="./assets/signal/icons/react.svg" width="44" alt="React"></a> <a href="https://reactnative.dev/docs/getting-started" title="React Native"><img src="./assets/signal/icons/react-native.svg" width="44" alt="React Native"></a> <a href="https://nextjs.org/docs" title="Next.js"><img src="./assets/signal/icons/next-js.svg" width="44" alt="Next.js"></a> <a href="https://vite.dev/guide/" title="Vite"><img src="./assets/signal/icons/vite.svg" width="44" alt="Vite"></a> <a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="./assets/signal/icons/tailwind-css.svg" width="44" alt="Tailwind CSS"></a>
-
-**Backend and storage**
-
-<a href="https://nodejs.org/en/docs" title="Node.js"><img src="./assets/signal/icons/node-js.svg" width="44" alt="Node.js"></a> <a href="https://expressjs.com/" title="Express"><img src="./assets/signal/icons/express.svg" width="44" alt="Express"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" title="REST APIs"><img src="./assets/signal/icons/rest-apis.svg" width="44" alt="REST APIs"></a> <a href="https://www.prisma.io/docs" title="Prisma"><img src="./assets/signal/icons/prisma.svg" width="44" alt="Prisma"></a> <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="./assets/signal/icons/postgresql.svg" width="44" alt="PostgreSQL"></a> <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="./assets/signal/icons/mongodb.svg" width="44" alt="MongoDB"></a> <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="./assets/signal/icons/mysql.svg" width="44" alt="MySQL"></a> <a href="https://supabase.com/docs" title="Supabase"><img src="./assets/signal/icons/supabase.svg" width="44" alt="Supabase"></a> <a href="https://firebase.google.com/docs" title="Firebase"><img src="./assets/signal/icons/firebase.svg" width="44" alt="Firebase"></a>
-
-**AI and speech tools**
-
-<a href="https://docs.livekit.io/" title="LiveKit"><img src="./assets/signal/icons/livekit.svg" width="44" alt="LiveKit"></a> <a href="https://ai.google.dev/gemini-api/docs" title="Gemini"><img src="./assets/signal/icons/gemini.svg" width="44" alt="Gemini"></a> <a href="https://alphacephei.com/vosk/" title="Vosk"><img src="./assets/signal/icons/vosk.svg" width="44" alt="Vosk"></a>
-
-**Tools and hosting**
-
-<a href="https://git-scm.com/doc" title="Git"><img src="./assets/signal/icons/git.svg" width="44" alt="Git"></a> <a href="https://docs.github.com/" title="GitHub"><img src="./assets/signal/icons/github.svg" width="44" alt="GitHub"></a> <a href="https://docs.docker.com/" title="Docker"><img src="./assets/signal/icons/docker.svg" width="44" alt="Docker"></a> <a href="https://learning.postman.com/" title="Postman"><img src="./assets/signal/icons/postman.svg" width="44" alt="Postman"></a> <a href="https://vercel.com/docs" title="Vercel"><img src="./assets/signal/icons/vercel.svg" width="44" alt="Vercel"></a> <a href="https://docs.netlify.com/" title="Netlify"><img src="./assets/signal/icons/netlify.svg" width="44" alt="Netlify"></a> <a href="https://render.com/docs" title="Render"><img src="./assets/signal/icons/render.svg" width="44" alt="Render"></a>
+<table>
+<tr>
+<td width="50%" valign="top"><strong>Languages</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./assets/signal/icons/javascript.svg" width="38" alt="JavaScript"></a> <a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="./assets/signal/icons/typescript.svg" width="38" alt="TypeScript"></a> <a href="https://docs.python.org/3/" title="Python"><img src="./assets/signal/icons/python.svg" width="38" alt="Python"></a> <a href="https://isocpp.org/" title="C++"><img src="./assets/signal/icons/cpp.svg" width="38" alt="C++"></a> <a href="https://www.postgresql.org/docs/current/tutorial-sql.html" title="SQL"><img src="./assets/signal/icons/sql.svg" width="38" alt="SQL"></a>
+</td>
+<td width="50%" valign="top"><strong>Web and mobile</strong><br>
+<a href="https://react.dev/" title="React"><img src="./assets/signal/icons/react.svg" width="38" alt="React"></a> <a href="https://reactnative.dev/docs/getting-started" title="React Native"><img src="./assets/signal/icons/react-native.svg" width="38" alt="React Native"></a> <a href="https://nextjs.org/docs" title="Next.js"><img src="./assets/signal/icons/next-js.svg" width="38" alt="Next.js"></a> <a href="https://vite.dev/guide/" title="Vite"><img src="./assets/signal/icons/vite.svg" width="38" alt="Vite"></a> <a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="./assets/signal/icons/tailwind-css.svg" width="38" alt="Tailwind CSS"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Backend APIs</strong><br>
+<a href="https://nodejs.org/en/docs" title="Node.js"><img src="./assets/signal/icons/node-js.svg" width="38" alt="Node.js"></a> <a href="https://expressjs.com/" title="Express"><img src="./assets/signal/icons/express.svg" width="38" alt="Express"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" title="REST APIs"><img src="./assets/signal/icons/rest-apis.svg" width="38" alt="REST APIs"></a> <a href="https://www.prisma.io/docs" title="Prisma"><img src="./assets/signal/icons/prisma.svg" width="38" alt="Prisma"></a>
+</td>
+<td width="50%" valign="top"><strong>Databases</strong><br>
+<a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="./assets/signal/icons/postgresql.svg" width="38" alt="PostgreSQL"></a> <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="./assets/signal/icons/mongodb.svg" width="38" alt="MongoDB"></a> <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="./assets/signal/icons/mysql.svg" width="38" alt="MySQL"></a> <a href="https://supabase.com/docs" title="Supabase"><img src="./assets/signal/icons/supabase.svg" width="38" alt="Supabase"></a> <a href="https://firebase.google.com/docs" title="Firebase"><img src="./assets/signal/icons/firebase.svg" width="38" alt="Firebase"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>AI and speech</strong><br>
+<a href="https://docs.livekit.io/" title="LiveKit"><img src="./assets/signal/icons/livekit.svg" width="38" alt="LiveKit"></a> <a href="https://ai.google.dev/gemini-api/docs" title="Gemini"><img src="./assets/signal/icons/gemini.svg" width="38" alt="Gemini"></a> <a href="https://alphacephei.com/vosk/" title="Vosk"><img src="./assets/signal/icons/vosk.svg" width="38" alt="Vosk"></a>
+</td>
+<td width="50%" valign="top"><strong>Tools and hosting</strong><br>
+<a href="https://git-scm.com/doc" title="Git"><img src="./assets/signal/icons/git.svg" width="38" alt="Git"></a> <a href="https://docs.github.com/" title="GitHub"><img src="./assets/signal/icons/github.svg" width="38" alt="GitHub"></a> <a href="https://docs.docker.com/" title="Docker"><img src="./assets/signal/icons/docker.svg" width="38" alt="Docker"></a> <a href="https://learning.postman.com/" title="Postman"><img src="./assets/signal/icons/postman.svg" width="38" alt="Postman"></a> <a href="https://vercel.com/docs" title="Vercel"><img src="./assets/signal/icons/vercel.svg" width="38" alt="Vercel"></a> <a href="https://docs.netlify.com/" title="Netlify"><img src="./assets/signal/icons/netlify.svg" width="38" alt="Netlify"></a> <a href="https://render.com/docs" title="Render"><img src="./assets/signal/icons/render.svg" width="38" alt="Render"></a>
+</td>
+</tr>
+</table>
 
 <a name="hackathons"></a>
 
